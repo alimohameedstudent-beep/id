@@ -1,7 +1,7 @@
 {
-  "total": 5,
+  "total": 15,
   "success": 2,
-  "failed": 3,
+  "failed": 13,
   "orgs": {
     "University of Michigan": {
       "success": 0,
@@ -17,11 +17,47 @@
     },
     "Arizona State University": {
       "success": 1,
-      "failed": 0
+      "failed": 1
     },
     "University of British Columbia": {
       "success": 1,
       "failed": 0
+    },
+    "University of Oxford": {
+      "success": 0,
+      "failed": 1
+    },
+    "Ohio State University": {
+      "success": 0,
+      "failed": 1
+    },
+    "Carnegie Mellon University": {
+      "success": 0,
+      "failed": 1
+    },
+    "Columbia University": {
+      "success": 0,
+      "failed": 1
+    },
+    "University of Wisconsin-Madison": {
+      "success": 0,
+      "failed": 1
+    },
+    "Stanford University": {
+      "success": 0,
+      "failed": 1
+    },
+    "Princeton University": {
+      "success": 0,
+      "failed": 1
+    },
+    "University of Chicago": {
+      "success": 0,
+      "failed": 1
+    },
+    "University of Southern California": {
+      "success": 0,
+      "failed": 1
     }
   }
 }
